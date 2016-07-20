@@ -1,15 +1,28 @@
 {
-  "name": "interact-cli",
-  "commonName": "Plugin Management Tool",
-  "version": "0.0.4",
-  "license": "GPL-3",
-  "maintainers": [
-    {
-      "name": "oliver.foster",
-      "email": "oliver.foster@kineo.com"
+    "name": "interact-cli",
+    "commonName": "Plugin Management Tool",
+    "version": "0.0.5",
+    "license": "GPL-3",
+    "maintainers": [
+        {
+            "name": "oliver.foster",
+            "email": "oliver.foster@kineo.com"
+        }
+    ],
+    "bin": {
+        "interact": "./bin/interact"
+    },
+    "dependencies": {
+        "buildkit-globber": "*",
+        "chalk": "*",
+        "underscore": "*",
+        "npm": "*",
+        "less": "*",
+        "uglify-js": "*",
+        "source-map": "*",
+        "source-map-resolve": "*",
+        "semver": "*",
+        "bower": "*",
+        "inquirer": "*"
     }
-  ],
-  "bin": {
-  	"interact": "./bin/interact"
-  }
 }
