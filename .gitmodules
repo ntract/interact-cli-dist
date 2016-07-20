@@ -1,15 +1,15 @@
 [submodule "plugins/interact-cli"]
     path = plugins/interact-cli
-    url = git@github.com:ntract/interact-cli.git
+    url = https://github.com/ntract/interact-cli.git
 
 [submodule "plugins/interact-cli-build"]
     path = plugins/interact-cli-build
-    url = git@github.com:ntract/interact-cli-build.git
+    url = https://github.com/ntract/ntract/interact-cli-build.git
 
 [submodule "plugins/interact-cli-compile"]
     path = plugins/interact-cli-compile
-    url = git@github.com:ntract/interact-cli-compile.git
+    url = https://github.com/ntract/ntract/interact-cli-compile.git
 
 [submodule "plugins/interact-cli-plugins"]
     path = plugins/interact-cli-plugins
-    url = git@github.com:ntract/interact-cli-plugins.git
+    url = https://github.com/ntract/ntract/interact-cli-plugins.git
