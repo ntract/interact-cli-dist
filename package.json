@@ -8,5 +8,6 @@
       "name": "oliver.foster",
       "email": "oliver.foster@kineo.com"
     }
-  ]
+  ],
+  "bin": "./interact"
 }
