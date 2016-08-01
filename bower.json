@@ -1,6 +1,6 @@
 {
-    "name": "interact-registry",
+    "name": "interact-cli",
     "dependencies": {
-        "interact-cli-plugins": "~0.0"
+        "interact-cli-bin": "~0.0"
     }
 }
