@@ -1,5 +1,5 @@
 {
-  "name": "interact-cli",
+  "name": "ntract-cli",
   "commonName": "Plugin Management Tool",
   "version": "0.0.15",
   "license": "GPL-3",
@@ -10,7 +10,7 @@
     }
   ],
   "bin": {
-    "interact": "./bin/interact"
+    "ntract": "./bin/ntract"
   },
   "dependencies": {
         "buildkit-globber": "*",
