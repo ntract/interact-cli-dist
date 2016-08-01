@@ -1,18 +1,18 @@
 {
-  "name": "ntract-cli",
-  "commonName": "Plugin Management Tool",
-  "version": "0.0.15",
-  "license": "GPL-3",
-  "maintainers": [
-    {
-      "name": "oliver.foster",
-      "email": "oliver.foster@kineo.com"
-    }
-  ],
-  "bin": {
-    "ntract": "./bin/ntract"
-  },
-  "dependencies": {
+    "name": "ntract-cli",
+    "commonName": "Plugin Management Tool",
+    "version": "0.0.16",
+    "license": "GPL-3",
+    "maintainers": [
+        {
+            "name": "oliver.foster",
+            "email": "oliver.foster@kineo.com"
+        }
+    ],
+    "bin": {
+        "ntract": "./bin/ntract"
+    },
+    "dependencies": {
         "buildkit-globber": "*",
         "chalk": "*",
         "underscore": "*",
