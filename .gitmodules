@@ -1,8 +1,8 @@
-[submodule "plugins/interact-cli-bin"]
-    path = plugins/interact-cli-bin
-    url = https://github.com/ntract/interact-cli-bin.git
+[submodule "plugins/ntract-cli-bin"]
+    path = plugins/ntract-cli-bin
+    url = https://github.com/ntract/ntract-cli-bin.git
 
 
-[submodule "plugins/interact-cli"]
-    path = plugins/interact-cli
-    url = https://github.com/ntract/interact-cli.git
+[submodule "plugins/ntract-cli"]
+    path = plugins/ntract-cli
+    url = https://github.com/ntract/ntract-cli.git
