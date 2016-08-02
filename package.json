@@ -1,7 +1,7 @@
 {
     "name": "ntract-cli",
     "commonName": "Plugin Management Tool",
-    "version": "0.0.17",
+    "version": "0.0.18",
     "license": "GPL-3",
     "maintainers": [
         {
@@ -11,6 +11,9 @@
     ],
     "bin": {
         "ntract": "./bin/ntract"
+    },
+    "scripts": {
+        "postinstall": "node plugins/ntract-cli/res/permissions.js"
     },
     "dependencies": {
         "buildkit-globber": "*",
