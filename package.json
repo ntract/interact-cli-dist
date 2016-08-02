@@ -1,7 +1,7 @@
 {
     "name": "ntract-cli",
     "commonName": "Plugin Management Tool",
-    "version": "0.0.16",
+    "version": "0.0.17",
     "license": "GPL-3",
     "maintainers": [
         {
